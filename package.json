@@ -1,0 +1,28 @@
+{
+  "name": "atom-cljs-doc",
+  "main": "./lib/cljs-doc",
+  "version": "0.0.0",
+  "description": "ClojureScript core library documentation viewer for Atom",
+  "keywords": [
+    "atom",
+    "clojurescript",
+    "clojure",
+    "doc",
+    "documentation"
+  ],
+  "repository": "https://github.com/roman01la/atom-cljs-doc",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "clojurescript": "0.0.11"
+  },
+  "consumedServices": {
+    "status-bar": {
+      "versions": {
+        "^1.0.0": "consumeStatusBar"
+      }
+    }
+  }
+}
