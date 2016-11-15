@@ -2,7 +2,7 @@
 
 *ClojureScript core library documentation viewer for Atom*
 
-![atom-cljs-doc usage example gif](example.gif)
+![atom-cljs-doc usage example gif](https://raw.githubusercontent.com/roman01la/atom-cljs-doc/master/example.gif)
 
 ## Installation
 
