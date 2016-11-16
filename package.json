@@ -1,7 +1,7 @@
 {
   "name": "atom-cljs-doc",
   "main": "./lib/cljs-doc",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "ClojureScript core library documentation viewer for Atom",
   "keywords": [
     "atom",
