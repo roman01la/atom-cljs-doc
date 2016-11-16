@@ -10,6 +10,9 @@
     "doc",
     "documentation"
   ],
+  "activationHooks": [
+    "language-clojure:grammar-used"
+  ],
   "repository": "https://github.com/roman01la/atom-cljs-doc",
   "license": "MIT",
   "engines": {
